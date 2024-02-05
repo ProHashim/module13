@@ -1,0 +1,3 @@
+npm install
+connect /create the database using (npx sequelize-cli db:migrate) 
+Download and configure insomnia
